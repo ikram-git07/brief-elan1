@@ -1,0 +1,48 @@
+.title{
+    text-align: center;
+}
+.info{
+    text-align: left;
+    margin-left :155px;
+}
+.forme{
+   
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: coral;
+    width: 100%;
+    height: 350px;
+    gap: 20px;
+    border: 1px solid;
+    border-radius: 3%;
+    margin-left: 40px;
+    margin-bottom: 50px;
+
+}
+.butt{
+    flex-direction: column;
+    justify-content: center;
+    background-color: rgb(8, 7, 9);
+    color: aliceblue;
+    text-align: center;
+    display: block;
+    width: 80%;
+    margin: 20px auto;
+    border-radius: 10px;
+}
+
+ .cntr{
+    display: flex;
+    gap: 180px;
+ }
+
+ .fit-info label{
+    font-size: 20px;
+ }
+.fit-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+   
+}
